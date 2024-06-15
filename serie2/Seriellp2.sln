@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seriellp2", "Seriellp2\Seriellp2.csproj", "{04FB4070-5435-47B3-A7A9-722935CBF0DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04FB4070-5435-47B3-A7A9-722935CBF0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FB4070-5435-47B3-A7A9-722935CBF0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FB4070-5435-47B3-A7A9-722935CBF0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FB4070-5435-47B3-A7A9-722935CBF0DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D92593B-135E-4A5E-A260-426D43BDD16E}
+	EndGlobalSection
+EndGlobal
